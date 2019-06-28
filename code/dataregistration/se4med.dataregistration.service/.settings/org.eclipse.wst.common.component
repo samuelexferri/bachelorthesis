@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+        
+    <wb-module deploy-name="se4med.dataregistration.service-0.0.1-SNAPSHOT">
+        <wb-resource deploy-path="/WEB-INF/web.xml" source-path="/src/main/webapp/WEB-INF/web.xml"/>
+        <wb-resource deploy-path="/" source-path="/target/m2e-wtp/web-resources"/>
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/webapp"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/resources"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/test/java"/>
+                
+        <dependent-module archiveName="se4med-backend-1.0-SNAPSHOT.jar" deploy-path="/WEB-INF/lib" handle="module:/resource/se4med-backend/se4med-backend">
+                        
+            <dependency-type>uses</dependency-type>
+                    
+        </dependent-module>
+                
+        <property name="java-output-path" value="/se4med.dataregistration.service/build/classes"/>
+                
+        <property name="context-root" value="se4med.dataregistration.service"/>
+            
+    </wb-module>
+    
+</project-modules>

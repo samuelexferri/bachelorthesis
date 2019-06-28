@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<full-backup-content>
+    <!-- Exclude the shared preferences file that contains the GCM registrationId -->
+    <exclude
+        domain="sharedpref"
+        path="SPPatient.xml" />
+    <exclude
+        domain="sharedpref"
+        path="SPDoctor.xml" />
+    <exclude
+        domain="sharedpref"
+        path="SPSettings.xml" />
+</full-backup-content>

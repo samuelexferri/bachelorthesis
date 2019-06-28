@@ -1,0 +1,3 @@
+[LATEX]
+
+- Commands: pdflatex -> biber -> pdflatex -> pdflatex

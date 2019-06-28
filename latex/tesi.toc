@@ -1,0 +1,80 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\babel@toc {italian}{}
+\babel@toc {italian}{}
+\babel@toc {italian}{}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {1}Introduzione generale}{1}{chapter.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.1}Ambliopia}{1}{section.1.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.2}Stereoacuit\IeC {\`a}}{3}{section.1.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.3}Anaglifi}{5}{section.1.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.4}Il progetto 3D4AMB}{6}{section.1.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.5}Il nostro apporto}{7}{section.1.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {2}Applicazione}{9}{chapter.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.1}Introduzione all'applicazione}{9}{section.2.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.2}Main activities}{10}{section.2.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.2.1}Login}{10}{subsection.2.2.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.2.2}Main Doctor}{11}{subsection.2.2.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.2.3}Main Patient}{12}{subsection.2.2.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.2.4}Test}{13}{subsection.2.2.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.2.5}Results}{15}{subsection.2.2.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.2.6}Settings}{16}{subsection.2.2.6}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.3}Util activities}{17}{section.2.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.3.1}Bitmap}{17}{subsection.2.3.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.3.2}DefaultValues}{17}{subsection.2.3.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.3.3}HashFunction}{17}{subsection.2.3.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.3.4}Other}{18}{subsection.2.3.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.4}Dettagli tecnici}{19}{section.2.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.4.1}AsyncTask}{19}{subsection.2.4.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.4.2}SharedPreferences}{19}{subsection.2.4.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {3}Servlet}{21}{chapter.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.1}Introduzione alla servlet}{21}{section.3.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.2}Database}{22}{section.3.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.3}Servizi}{23}{section.3.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {4}Libreria}{25}{chapter.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.1}Introduzione alla libreria}{25}{section.4.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.2}PEST (Parameter Estimation by Sequential Testing)}{26}{section.4.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.3}Studio qualitativo dell'algoritmo}{27}{section.4.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.4}Implementazione dell'algoritmo}{29}{section.4.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.4.1}PART ONE}{33}{subsection.4.4.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.4.2}PART TWO}{34}{subsection.4.4.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.5}Testing dell'algoritmo}{37}{section.4.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {A}AsyncTask}{45}{appendix.Alph1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Bibliografia}{49}{appendix*.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Sitografia}{51}{appendix*.4}% 

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<jardesc>
+    <jar path="C:/3d4amb/code/applications/Test/Stereoacuity test/StereoTest Toffolatti/StereoacuityTest/Libraries/se4med_backend.jar"/>
+    <options buildIfNeeded="true" compress="false" descriptionLocation="/se4med-backend/exportjar.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="false" overwrite="false" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="true" manifestLocation="" manifestVersion="1.0" reuseManifest="false" saveManifest="false" usesManifest="true">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="true" exportOutputFolder="false">
+        <javaElement handleIdentifier="=se4med-backend/src\/main\/java&lt;se4med.jooq"/>
+        <folder path="/se4med-backend/target"/>
+        <folder path="/se4med-backend/src"/>
+        <javaElement handleIdentifier="=se4med-backend/src\/main\/java&lt;se4med.jooq.tables"/>
+        <javaElement handleIdentifier="=se4med-backend/src\/test\/java&lt;insertDataMySQL"/>
+        <javaElement handleIdentifier="=se4med-backend/src\/main\/java&lt;unibg.se4med"/>
+        <javaElement handleIdentifier="=se4med-backend/src\/main\/java&lt;se4med.jooq.tables.records"/>
+    </selectedElements>
+</jardesc>

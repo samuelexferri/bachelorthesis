@@ -1,0 +1,465 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.0 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{ambliopia}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=e2da7fa72b717ca775d2d65a17762485}{%
+           family={Humanitas},
+           familyi={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{e2da7fa72b717ca775d2d65a17762485}
+      \strng{fullhash}{e2da7fa72b717ca775d2d65a17762485}
+      \strng{bibnamehash}{e2da7fa72b717ca775d2d65a17762485}
+      \strng{authorbibnamehash}{e2da7fa72b717ca775d2d65a17762485}
+      \strng{authornamehash}{e2da7fa72b717ca775d2d65a17762485}
+      \strng{authorfullhash}{e2da7fa72b717ca775d2d65a17762485}
+      \field{labelalpha}{Hum17}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Ambliopia}
+      \field{year}{2017}
+      \verb{urlraw}
+      \verb www.humanitas.it/malattie/ambliopia-occhio-pigro
+      \endverb
+      \verb{url}
+      \verb www.humanitas.it/malattie/ambliopia-occhio-pigro
+      \endverb
+      \keyw{primary}
+    \endentry
+    \entry{3d4amb}{online}{}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labeltitlesource}{title}
+      \field{title}{3D4AMB}
+      \verb{urlraw}
+      \verb 3d4amb.unibg.it
+      \endverb
+      \verb{url}
+      \verb 3d4amb.unibg.it
+      \endverb
+      \keyw{secondary}
+    \endentry
+    \entry{se4med}{online}{}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{labeltitlesource}{title}
+      \field{title}{SE4MED}
+      \verb{urlraw}
+      \verb se4med.unibg.it
+      \endverb
+      \verb{url}
+      \verb se4med.unibg.it
+      \endverb
+      \keyw{secondary}
+    \endentry
+    \entry{androiddevelopers}{online}{}
+      \field{sortinit}{4}
+      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
+      \field{labeltitlesource}{title}
+      \field{title}{Android Developers}
+      \verb{urlraw}
+      \verb developer.android.com
+      \endverb
+      \verb{url}
+      \verb developer.android.com
+      \endverb
+      \keyw{secondary}
+    \endentry
+    \entry{eclipse}{online}{}
+      \field{sortinit}{5}
+      \field{sortinithash}{3c19c3776b658b3558e9e2e4840c01e2}
+      \field{labeltitlesource}{title}
+      \field{title}{Eclipse}
+      \verb{urlraw}
+      \verb eclipse.org
+      \endverb
+      \verb{url}
+      \verb eclipse.org
+      \endverb
+      \keyw{secondary}
+    \endentry
+    \entry{mysql}{online}{}
+      \field{sortinit}{6}
+      \field{sortinithash}{57e57fb8451e7fcfa45d1e069f6d3136}
+      \field{labeltitlesource}{title}
+      \field{title}{MySQL}
+      \verb{urlraw}
+      \verb mysql.com
+      \endverb
+      \verb{url}
+      \verb mysql.com
+      \endverb
+      \keyw{secondary}
+    \endentry
+    \entry{json}{online}{}
+      \field{sortinit}{7}
+      \field{sortinithash}{c818dd9105a2852444fc9f5e145c294e}
+      \field{labeltitlesource}{title}
+      \field{title}{JSON}
+      \verb{urlraw}
+      \verb json.org
+      \endverb
+      \verb{url}
+      \verb json.org
+      \endverb
+      \keyw{secondary}
+    \endentry
+    \entry{jooq}{online}{}
+      \field{sortinit}{8}
+      \field{sortinithash}{07edf88d4ea82509b9c4b4d13f41c452}
+      \field{labeltitlesource}{title}
+      \field{title}{JOOQ}
+      \verb{urlraw}
+      \verb jooq.org
+      \endverb
+      \verb{url}
+      \verb jooq.org
+      \endverb
+      \keyw{secondary}
+    \endentry
+    \entry{pestalex}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=abcd94cefe95ad9dc680d74be121b8ba}{%
+           family={Pentlando},
+           familyi={P\bibinitperiod},
+           given={Alex},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Perception \& Psychophysics}%
+      }
+      \strng{namehash}{abcd94cefe95ad9dc680d74be121b8ba}
+      \strng{fullhash}{abcd94cefe95ad9dc680d74be121b8ba}
+      \strng{bibnamehash}{abcd94cefe95ad9dc680d74be121b8ba}
+      \strng{authorbibnamehash}{abcd94cefe95ad9dc680d74be121b8ba}
+      \strng{authornamehash}{abcd94cefe95ad9dc680d74be121b8ba}
+      \strng{authorfullhash}{abcd94cefe95ad9dc680d74be121b8ba}
+      \field{labelalpha}{Pen80}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{number}{Volume 28-4}
+      \field{title}{Maximum likelihood estimation: The best PEST}
+      \field{year}{1980}
+      \keyw{primary}
+    \endentry
+    \entry{pestneil}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=fa64bcf12c752be2a772ea1968f15b24}{%
+           family={Carter},
+           familyi={C\bibinitperiod},
+           given={Neil},
+           giveni={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{fa64bcf12c752be2a772ea1968f15b24}
+      \strng{fullhash}{fa64bcf12c752be2a772ea1968f15b24}
+      \strng{bibnamehash}{fa64bcf12c752be2a772ea1968f15b24}
+      \strng{authorbibnamehash}{fa64bcf12c752be2a772ea1968f15b24}
+      \strng{authornamehash}{fa64bcf12c752be2a772ea1968f15b24}
+      \strng{authorfullhash}{fa64bcf12c752be2a772ea1968f15b24}
+      \field{labelalpha}{Car17}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{PEST (Parameter Estimation by Sequential Testing)}
+      \field{year}{2017}
+      \verb{urlraw}
+      \verb psy.swansea.ac.uk/staff/carter/projects/PEST_explanation.htm
+      \endverb
+      \verb{url}
+      \verb psy.swansea.ac.uk/staff/carter/projects/PEST_explanation.htm
+      \endverb
+      \keyw{primary}
+    \endentry
+    \entry{pest}{misc}{}
+      \name{author}{2}{}{%
+        {{hash=47ee8031b8842c42caea159d479d4a34}{%
+           family={Taylor},
+           familyi={T\bibinitperiod},
+           given={M.\bibnamedelimi M.},
+           giveni={M\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=14d9016ec69b5412e93bdf47bcdf99dc}{%
+           family={Creelman},
+           familyi={C\bibinitperiod},
+           given={C.\bibnamedelimi Douglas},
+           giveni={C\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Journal of the Acoustical Society of America}%
+      }
+      \strng{namehash}{953bc376b43c6c45616b8d8e0454bb40}
+      \strng{fullhash}{953bc376b43c6c45616b8d8e0454bb40}
+      \strng{bibnamehash}{953bc376b43c6c45616b8d8e0454bb40}
+      \strng{authorbibnamehash}{953bc376b43c6c45616b8d8e0454bb40}
+      \strng{authornamehash}{953bc376b43c6c45616b8d8e0454bb40}
+      \strng{authorfullhash}{953bc376b43c6c45616b8d8e0454bb40}
+      \field{labelalpha}{TC67}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{number}{Volume 41-4}
+      \field{title}{PEST: Efficient Estimates on Probability Functions}
+      \field{year}{1967}
+      \keyw{primary}
+    \endentry
+    \entry{codecover}{online}{}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labeltitlesource}{title}
+      \field{title}{CodeCover}
+      \verb{urlraw}
+      \verb codecover.org
+      \endverb
+      \verb{url}
+      \verb codecover.org
+      \endverb
+      \keyw{secondary}
+    \endentry
+  \enddatalist
+  \datalist[entry]{anyt/global//global/global}
+    \entry{3d4amb}{online}{}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{labeltitlesource}{title}
+      \field{title}{3D4AMB}
+      \verb{urlraw}
+      \verb 3d4amb.unibg.it
+      \endverb
+      \verb{url}
+      \verb 3d4amb.unibg.it
+      \endverb
+      \keyw{secondary}
+    \endentry
+    \entry{androiddevelopers}{online}{}
+      \field{sortinit}{A}
+      \field{sortinithash}{d77c7cdd82ff690d4c3ef13216f92f0b}
+      \field{labeltitlesource}{title}
+      \field{title}{Android Developers}
+      \verb{urlraw}
+      \verb developer.android.com
+      \endverb
+      \verb{url}
+      \verb developer.android.com
+      \endverb
+      \keyw{secondary}
+    \endentry
+    \entry{codecover}{online}{}
+      \field{sortinit}{C}
+      \field{sortinithash}{963e9d84a3da2344e8833203de5aed05}
+      \field{labeltitlesource}{title}
+      \field{title}{CodeCover}
+      \verb{urlraw}
+      \verb codecover.org
+      \endverb
+      \verb{url}
+      \verb codecover.org
+      \endverb
+      \keyw{secondary}
+    \endentry
+    \entry{eclipse}{online}{}
+      \field{sortinit}{E}
+      \field{sortinithash}{f615fb9c6fba11c6f962fb3fd599810e}
+      \field{labeltitlesource}{title}
+      \field{title}{Eclipse}
+      \verb{urlraw}
+      \verb eclipse.org
+      \endverb
+      \verb{url}
+      \verb eclipse.org
+      \endverb
+      \keyw{secondary}
+    \endentry
+    \entry{jooq}{online}{}
+      \field{sortinit}{J}
+      \field{sortinithash}{fce5f8d0bd05e8d93f3dbe21c78897ca}
+      \field{labeltitlesource}{title}
+      \field{title}{JOOQ}
+      \verb{urlraw}
+      \verb jooq.org
+      \endverb
+      \verb{url}
+      \verb jooq.org
+      \endverb
+      \keyw{secondary}
+    \endentry
+    \entry{json}{online}{}
+      \field{sortinit}{J}
+      \field{sortinithash}{fce5f8d0bd05e8d93f3dbe21c78897ca}
+      \field{labeltitlesource}{title}
+      \field{title}{JSON}
+      \verb{urlraw}
+      \verb json.org
+      \endverb
+      \verb{url}
+      \verb json.org
+      \endverb
+      \keyw{secondary}
+    \endentry
+    \entry{mysql}{online}{}
+      \field{sortinit}{M}
+      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
+      \field{labeltitlesource}{title}
+      \field{title}{MySQL}
+      \verb{urlraw}
+      \verb mysql.com
+      \endverb
+      \verb{url}
+      \verb mysql.com
+      \endverb
+      \keyw{secondary}
+    \endentry
+    \entry{se4med}{online}{}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{labeltitlesource}{title}
+      \field{title}{SE4MED}
+      \verb{urlraw}
+      \verb se4med.unibg.it
+      \endverb
+      \verb{url}
+      \verb se4med.unibg.it
+      \endverb
+      \keyw{secondary}
+    \endentry
+    \entry{pestneil}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=fa64bcf12c752be2a772ea1968f15b24}{%
+           family={Carter},
+           familyi={C\bibinitperiod},
+           given={Neil},
+           giveni={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{fa64bcf12c752be2a772ea1968f15b24}
+      \strng{fullhash}{fa64bcf12c752be2a772ea1968f15b24}
+      \strng{bibnamehash}{fa64bcf12c752be2a772ea1968f15b24}
+      \strng{authorbibnamehash}{fa64bcf12c752be2a772ea1968f15b24}
+      \strng{authornamehash}{fa64bcf12c752be2a772ea1968f15b24}
+      \strng{authorfullhash}{fa64bcf12c752be2a772ea1968f15b24}
+      \field{labelalpha}{Car17}
+      \field{sortinit}{C}
+      \field{sortinithash}{963e9d84a3da2344e8833203de5aed05}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{PEST (Parameter Estimation by Sequential Testing)}
+      \field{year}{2017}
+      \verb{urlraw}
+      \verb psy.swansea.ac.uk/staff/carter/projects/PEST_explanation.htm
+      \endverb
+      \verb{url}
+      \verb psy.swansea.ac.uk/staff/carter/projects/PEST_explanation.htm
+      \endverb
+      \keyw{primary}
+    \endentry
+    \entry{ambliopia}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=e2da7fa72b717ca775d2d65a17762485}{%
+           family={Humanitas},
+           familyi={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{e2da7fa72b717ca775d2d65a17762485}
+      \strng{fullhash}{e2da7fa72b717ca775d2d65a17762485}
+      \strng{bibnamehash}{e2da7fa72b717ca775d2d65a17762485}
+      \strng{authorbibnamehash}{e2da7fa72b717ca775d2d65a17762485}
+      \strng{authornamehash}{e2da7fa72b717ca775d2d65a17762485}
+      \strng{authorfullhash}{e2da7fa72b717ca775d2d65a17762485}
+      \field{labelalpha}{Hum17}
+      \field{sortinit}{H}
+      \field{sortinithash}{5f15a7bc777ad49ff15aa4d2831b1681}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Ambliopia}
+      \field{year}{2017}
+      \verb{urlraw}
+      \verb www.humanitas.it/malattie/ambliopia-occhio-pigro
+      \endverb
+      \verb{url}
+      \verb www.humanitas.it/malattie/ambliopia-occhio-pigro
+      \endverb
+      \keyw{primary}
+    \endentry
+    \entry{pestalex}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=abcd94cefe95ad9dc680d74be121b8ba}{%
+           family={Pentlando},
+           familyi={P\bibinitperiod},
+           given={Alex},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Perception \& Psychophysics}%
+      }
+      \strng{namehash}{abcd94cefe95ad9dc680d74be121b8ba}
+      \strng{fullhash}{abcd94cefe95ad9dc680d74be121b8ba}
+      \strng{bibnamehash}{abcd94cefe95ad9dc680d74be121b8ba}
+      \strng{authorbibnamehash}{abcd94cefe95ad9dc680d74be121b8ba}
+      \strng{authornamehash}{abcd94cefe95ad9dc680d74be121b8ba}
+      \strng{authorfullhash}{abcd94cefe95ad9dc680d74be121b8ba}
+      \field{labelalpha}{Pen80}
+      \field{sortinit}{P}
+      \field{sortinithash}{8d51b3d5b78d75b54308d706b9bbe285}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{number}{Volume 28-4}
+      \field{title}{Maximum likelihood estimation: The best PEST}
+      \field{year}{1980}
+      \keyw{primary}
+    \endentry
+    \entry{pest}{misc}{}
+      \name{author}{2}{}{%
+        {{hash=47ee8031b8842c42caea159d479d4a34}{%
+           family={Taylor},
+           familyi={T\bibinitperiod},
+           given={M.\bibnamedelimi M.},
+           giveni={M\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=14d9016ec69b5412e93bdf47bcdf99dc}{%
+           family={Creelman},
+           familyi={C\bibinitperiod},
+           given={C.\bibnamedelimi Douglas},
+           giveni={C\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Journal of the Acoustical Society of America}%
+      }
+      \strng{namehash}{953bc376b43c6c45616b8d8e0454bb40}
+      \strng{fullhash}{953bc376b43c6c45616b8d8e0454bb40}
+      \strng{bibnamehash}{953bc376b43c6c45616b8d8e0454bb40}
+      \strng{authorbibnamehash}{953bc376b43c6c45616b8d8e0454bb40}
+      \strng{authornamehash}{953bc376b43c6c45616b8d8e0454bb40}
+      \strng{authorfullhash}{953bc376b43c6c45616b8d8e0454bb40}
+      \field{labelalpha}{TC67}
+      \field{sortinit}{T}
+      \field{sortinithash}{6f7aff9db9dcfeb7f95fd5bbd2f78df9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{number}{Volume 41-4}
+      \field{title}{PEST: Efficient Estimates on Probability Functions}
+      \field{year}{1967}
+      \keyw{primary}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

@@ -1,0 +1,81 @@
+<resources>
+    <!-- MAIN STRINGS -->
+    <string name="app_name">3DSAT</string>
+    <string name="loremIpsum">Lorem Ipsum</string>
+
+    <!-- TITLES -->
+    <string name="title_activity_main_doctor">MAIN DOCTOR</string>
+    <string name="title_activity_main_patient">MAIN PATIENT</string>
+    <string name="title_create_patient">CREATE PATIENT</string>
+    <string name="title_main_patient">CHOOSE PATIENT</string>
+    <string name="title_results">RESULTS</string>
+    <string name="title_settings">SETTINGS</string>
+    <string name="title_test">TEST</string>
+    <string name="title_test_results">TEST RESULTS</string>
+
+    <!-- BUTTONS -->
+    <string name="btn_choose_patient">Choose Patient</string>
+    <string name="btn_start_test">Start Test</string>
+    <string name="btn_results">Results</string>
+    <string name="btn_settings">Settings</string>
+    <string name="btn_logout">Logout</string>
+    <string name="btn_site">Site</string>
+
+    <string name="btn_test">Start Test</string>
+    <string name="btn_skip">Skip</string>
+    <string name="btn_quit">Quit</string>
+
+    <string name="btn_confirm">Confirm</string>
+    <string name="btn_back">Back</string>
+    <string name="btn_reset">Reset</string>
+
+    <string name="btn_retry">Retry connecting to the servlet</string>
+
+    <!-- NAVIGATION DRAWER -->
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <!-- LABELS AND MESSAGES -->
+    <string name="hint_name">Name</string>
+    <string name="hint_surname">Surname</string>
+    <string name="msg_search_patient">Search patient</string>
+    <string name="msg_alert_settings">Change these settings carefully</string>
+    <string name="msg_demo">Demo</string>
+    <string name="msg_delete_file">Delete file</string>
+
+    <string name="msg_information">Information</string>
+    <string name="msg_zero">0</string>
+    <string name="msg_sx">SX</string>
+    <string name="msg_dx">DX</string>
+
+    <string name="imageset_name_Lang">LANG</string>
+    <string name="imageset_name_Lea">LEA</string>
+    <string name="imageset_name_LeaContour">LEA CONTORNO</string>
+    <string name="imageset_name_Letters">LETTERS</string>
+    <string name="imageset_name_PacMan">PACMAN</string>
+    <string name="imageset_name_Tno">TNO</string>
+
+    <!-- LOGIN -->
+    <string name="prompt_email">Mail</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="action_sign_up">Sign up</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_invalid_mail">This mail address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions"</string>
+
+    <!-- SETTINGS -->
+    <string name="setting_name_screendistance">Distance (cm)</string>
+    <string name="setting_name_maxdisparity">Maximum disparity (pixel)</string>
+    <string name="setting_name_mindisparity">Minimum disparity (pixel)</string>
+    <string name="setting_name_imageset">IMAGE SET:</string>
+    <string name="left_eye">LEFT EYE:</string>
+    <string name="right_eye">RIGHT EYE:</string>
+    <string name="red_color">RED COLOR:</string>
+    <string name="blue_color">BLUE COLOR:</string>
+    <string name="green_color">GREEN COLOR:</string>
+</resources>
