@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2019.3.28)  21 MAY 2019 17:24
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2019.3.28)  27 OCT 2019 13:42
 entering extended mode
 **./tesi.tex
 (tesi.tex
@@ -1257,17 +1257,7 @@ Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
 
 \@quotelevel=\count404
 \@quotereset=\count405
-(tesi.aux
-
-LaTeX Warning: Label `t:1' multiply defined.
-
-
-LaTeX Warning: Label `t:1' multiply defined.
-
-
-LaTeX Warning: Label `t:1' multiply defined.
-
-)
+(tesi.aux)
 \openout1 = `tesi.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 194.
@@ -1542,11 +1532,11 @@ Package biblatex Info: Reference segment=0 on input line 194.
 
 Package monografia Warning: No configuration file found on input line 201.
 
-<images/unibg.png, id=155, 231.264pt x 231.264pt>
-File: images/unibg.png Graphic file (type png)
-<use images/unibg.png>
-Package pdftex.def Info: images/unibg.png  used on input line 213.
-(pdftex.def)             Requested size: 70.0008pt x 70.00249pt.
+<images/unibg.jpg, id=3, 310.2792pt x 310.2792pt>
+File: images/unibg.jpg Graphic file (type jpg)
+<use images/unibg.jpg>
+Package pdftex.def Info: images/unibg.jpg  used on input line 213.
+(pdftex.def)             Requested size: 69.99918pt x 70.00249pt.
 LaTeX Font Info:    Try loading font information for OT1+lmr on input line 214.
 
 ("C:\Users\Samuele\AppData\Local\Programs\MiKTeX 2.9\tex/latex/lm\ot1lmr.fd"
@@ -1590,22 +1580,17 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 
 
 {C:/Users/Samuele/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./images/
-unibg.png>]pdfTeX warning (ext4): destination with the same identifier (name{pa
+unibg.jpg>]pdfTeX warning (ext4): destination with the same identifier (name{pa
 ge.}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.236 \paginavuota
                    [2
 
-] (tesi.tocpdfTeX warning (ext4): destination with the same identifier (name{pa
-ge.}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.52 ...er}{\numberline {3}Servlet}{21}{chapter.3}
-                                                  % [3
+]
 
+Package hyperref Warning: old toc file detected, not used; run LaTeX again.
 
-])
 \tf@toc=\write6
 \openout6 = `tesi.toc'.
 
@@ -1614,7 +1599,10 @@ een already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.238 \indici
-              [4]
+              [3
+
+
+]
 Capitolo 1.
 LaTeX Font Info:    Try loading font information for LGR+lmr on input line 256.
 
@@ -1622,13 +1610,18 @@ LaTeX Font Info:    Try loading font information for LGR+lmr on input line 256.
 ("C:\Users\Samuele\AppData\Local\Programs\MiKTeX 2.9\tex/latex/cbfonts-fd\lgrlm
 r.fd"
 File: lgrlmr.fd 2017/07/29 v1.2 Scalable Greek Latin Modern Regular
-) [1
+)
+
+LaTeX Warning: Reference `fig:occhio_pigro_ambliopia' on page 1 undefined on in
+put line 258.
+
+[1
 
 
 
 
 ]
-<images/occhio_pigro_ambliopia.png, id=224, 526.96875pt x 472.01344pt>
+<images/occhio_pigro_ambliopia.png, id=29, 526.96875pt x 472.01344pt>
 File: images/occhio_pigro_ambliopia.png Graphic file (type png)
 <use images/occhio_pigro_ambliopia.png>
 Package pdftex.def Info: images/occhio_pigro_ambliopia.png  used on input line 
@@ -1641,7 +1634,7 @@ Package pdftex.def Info: images/occhio_pigro_ambliopia.png  used on input line
                                                   \fi \fi 
 l.274 \newpage
                <./images/occhio_pigro_ambliopia.png>]
-<images/misurazione_stereoacuita.png, id=232, 312.16624pt x 162.6075pt>
+<images/misurazione_stereoacuita.png, id=39, 312.16624pt x 162.6075pt>
 File: images/misurazione_stereoacuita.png Graphic file (type png)
 <use images/misurazione_stereoacuita.png>
 Package pdftex.def Info: images/misurazione_stereoacuita.png  used on input lin
@@ -1662,13 +1655,16 @@ LaTeX Font Info:    External font `lmex10' loaded for size
                                                   \fi \fi 
 l.300 \newpage
                <./images/misurazione_stereoacuita.png>]
-LaTeX Font Info:    Try loading font information for TS1+lmr on input line 304.
 
+LaTeX Warning: Reference `fig:howard_dolman' on page 4 undefined on input line 
+302.
+
+LaTeX Font Info:    Try loading font information for TS1+lmr on input line 304.
 
 ("C:\Users\Samuele\AppData\Local\Programs\MiKTeX 2.9\tex/latex/lm\ts1lmr.fd"
 File: ts1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-<images/howard_dolman.png, id=247, 1035.87pt x 1079.232pt>
+<images/howard_dolman.png, id=53, 1035.87pt x 1079.232pt>
 File: images/howard_dolman.png Graphic file (type png)
 <use images/howard_dolman.png>
 Package pdftex.def Info: images/howard_dolman.png  used on input line 315.
@@ -1681,7 +1677,7 @@ Package pdftex.def Info: images/howard_dolman.png  used on input line 315.
                                                   \fi \fi 
 l.320 \newpage
                <./images/howard_dolman.png>]
-<images/anaglifi.png, id=257, 301.125pt x 204.765pt>
+<images/anaglifi.png, id=64, 301.125pt x 204.765pt>
 File: images/anaglifi.png Graphic file (type png)
 <use images/anaglifi.png>
 Package pdftex.def Info: images/anaglifi.png  used on input line 330.
@@ -1693,7 +1689,7 @@ Package pdftex.def Info: images/anaglifi.png  used on input line 330.
                                                   \fi \fi 
 l.337 \newpage
                <./images/anaglifi.png>]
-<images/3d4amb.png, id=264, 256.32454pt x 57.71202pt>
+<images/3d4amb.png, id=72, 256.32454pt x 57.71202pt>
 File: images/3d4amb.png Graphic file (type png)
 <use images/3d4amb.png>
 Package pdftex.def Info: images/3d4amb.png  used on input line 344.
@@ -1736,6 +1732,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 391--392
 LaTeX Warning: No positions in optional float specifier.
                Default added (so using `htb') on input line 393.
 
+
+LaTeX Warning: Reference `chap:servlet' on page 9 undefined on input line 404.
+
+
+LaTeX Warning: Reference `chap:libreria' on page 9 undefined on input line 405.
+
+
 [9
 
 pdfTeX warning (ext4): destination with the same identifier (name{table.2.1}) h
@@ -1745,7 +1748,7 @@ as been already used, duplicate ignored
                                                   \fi \fi 
 l.409 \newpage
               ]
-<images/app_login.png, id=301, 722.7pt x 1284.8pt>
+<images/app_login.png, id=110, 722.7pt x 1284.8pt>
 File: images/app_login.png Graphic file (type png)
 <use images/app_login.png>
 Package pdftex.def Info: images/app_login.png  used on input line 418.
@@ -1757,7 +1760,7 @@ t-to-re re-gi-stran-do-si su \T1/lmr/m/it/12 se4med.unibg.it/home\T1/lmr/m/n/12
  ,
  []
 
-<images/app_main_doctor_nav.png, id=302, 520.344pt x 462.7689pt>
+<images/app_main_doctor_nav.png, id=111, 520.344pt x 462.7689pt>
 File: images/app_main_doctor_nav.png Graphic file (type png)
 <use images/app_main_doctor_nav.png>
 Package pdftex.def Info: images/app_main_doctor_nav.png  used on input line 431
@@ -1776,7 +1779,7 @@ Overfull \hbox (18.9989pt too wide) in paragraph at lines 435--436
  link al si-to \T1/lmr/m/it/12 se4med.unibg.it/home\T1/lmr/m/n/12 .
  []
 
-<images/app_choose_create_patient.png, id=308, 520.344pt x 462.7689pt>
+<images/app_choose_create_patient.png, id=120, 520.344pt x 462.7689pt>
 File: images/app_choose_create_patient.png Graphic file (type png)
 <use images/app_choose_create_patient.png>
 Package pdftex.def Info: images/app_choose_create_patient.png  used on input li
@@ -1790,7 +1793,7 @@ ne 445.
 l.449 A
         questa sezione si accede cliccando il pulsante \textit{choose patien...
  <./images/app_main_doctor_nav.png (PNG copy)>]
-<images/app_test.png, id=314, 520.344pt x 462.7689pt>
+<images/app_test.png, id=127, 520.344pt x 462.7689pt>
 File: images/app_test.png Graphic file (type png)
 <use images/app_test.png>
 Package pdftex.def Info: images/app_test.png  used on input line 461.
@@ -1802,21 +1805,33 @@ Package pdftex.def Info: images/app_test.png  used on input line 461.
                                                   \fi \fi 
 l.465 A
        ll'apertura del test saranno visualizzate immagini in versione demo (...
- <./images/app_choose_create_patient.png (PNG copy)>] [13pdfTeX warning (ext4):
- destination with the same identifier (name{figure.2.4}) has been already used,
- duplicate ignored
+ <./images/app_choose_create_patient.png (PNG copy)>]
+
+LaTeX Warning: Reference `fig:app_test' on page 13 undefined on input line 465.
+
+
+
+LaTeX Warning: Reference `fig:app_test' on page 13 undefined on input line 469.
+
+
+
+LaTeX Warning: Reference `fig:app_test' on page 13 undefined on input line 469.
+
+
+[13pdfTeX warning (ext4): destination with the same identifier (name{figure.2.4
+}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.473 \newpage
                <./images/app_test.png>]
-<images/app_results.png, id=328, 260.172pt x 462.528pt>
+<images/app_results.png, id=140, 260.172pt x 462.528pt>
 File: images/app_results.png Graphic file (type png)
 <use images/app_results.png>
 Package pdftex.def Info: images/app_results.png  used on input line 492.
 (pdftex.def)             Requested size: 147.87839pt x 262.9097pt.
  [14]
-<images/app_settings.png, id=333, 499.1448pt x 381.5856pt>
+<images/app_settings.png, id=145, 499.1448pt x 381.5856pt>
 File: images/app_settings.png Graphic file (type png)
 <use images/app_settings.png>
 Package pdftex.def Info: images/app_settings.png  used on input line 508.
@@ -1829,13 +1844,17 @@ Package pdftex.def Info: images/app_settings.png  used on input line 508.
 l.512 I
        n questa attività è possibile modificare le impostazioni dell'appli...
  <./images/app_results.png>]
-<images/app_set_images.png, id=342, 2116.90875pt x 740.7675pt>
+
+LaTeX Warning: Reference `fig:app_set_images' on page 16 undefined on input lin
+e 514.
+
+<images/app_set_images.png, id=153, 2116.90875pt x 740.7675pt>
 File: images/app_set_images.png Graphic file (type png)
 <use images/app_set_images.png>
 Package pdftex.def Info: images/app_set_images.png  used on input line 518.
 (pdftex.def)             Requested size: 211.25116pt x 73.92284pt.
- [16pdfTeX warning (ext4): destination with the same identifier (name{figure.2.
-6}) has been already used, duplicate ignored
+[16pdfTeX warning (ext4): destination with the same identifier (name{figure.2.6
+}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
@@ -1867,9 +1886,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 582--583
  []
 
 [18]
+
+LaTeX Warning: Reference `chap:asynctask' on page 19 undefined on input line 59
+8.
+
 Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on i
 nput line 604.
- [19] [20]
+[19] [20]
 Capitolo 3.
 
 Underfull \hbox (badness 10000) in paragraph at lines 648--649
@@ -1904,13 +1927,17 @@ l.674 \newpage
                                                   \fi \fi 
 l.674 \newpage
               ]
-<images/database.png, id=435, 612.78937pt x 386.94562pt>
+
+LaTeX Warning: Reference `fig:database' on page 22 undefined on input line 678.
+
+
+<images/database.png, id=255, 612.78937pt x 386.94562pt>
 File: images/database.png Graphic file (type png)
 <use images/database.png>
 Package pdftex.def Info: images/database.png  used on input line 682.
 (pdftex.def)             Requested size: 380.2495pt x 240.11044pt.
- [22pdfTeX warning (ext4): destination with the same identifier (name{figure.3.
-1}) has been already used, duplicate ignored
+[22pdfTeX warning (ext4): destination with the same identifier (name{figure.3.1
+}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
@@ -1935,30 +1962,44 @@ as been already used, duplicate ignored
                                                   \fi \fi 
 l.760 \newpage
               ]
-<images/formula_findlay.png, id=488, 287.57437pt x 42.45862pt>
+
+LaTeX Warning: Reference `fig:formula_findlay' on page 26 undefined on input li
+ne 770.
+
+<images/formula_findlay.png, id=312, 287.57437pt x 42.45862pt>
 File: images/formula_findlay.png Graphic file (type png)
 <use images/formula_findlay.png>
 Package pdftex.def Info: images/formula_findlay.png  used on input line 774.
 (pdftex.def)             Requested size: 295.75032pt x 43.6674pt.
- [26pdfTeX warning (ext4): destination with the same identifier (name{figure.4.
-1}) has been already used, duplicate ignored
+[26pdfTeX warning (ext4): destination with the same identifier (name{figure.4.1
+}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.780 
-       <./images/formula_findlay.png>] [27]
-<images/pest_acc75.png, id=503, 799.48688pt x 443.40656pt>
+       <./images/formula_findlay.png>]
+
+LaTeX Warning: Reference `fig:pest_acc75' on page 27 undefined on input line 78
+9.
+
+[27]
+<images/pest_acc75.png, id=326, 799.48688pt x 443.40656pt>
 File: images/pest_acc75.png Graphic file (type png)
 <use images/pest_acc75.png>
 Package pdftex.def Info: images/pest_acc75.png  used on input line 793.
 (pdftex.def)             Requested size: 295.75032pt x 164.02402pt.
-<images/pest_acc85.png, id=505, 797.22844pt x 442.65375pt>
+
+
+LaTeX Warning: Reference `fig:pest_acc85' on page 28 undefined on input line 79
+8.
+
+<images/pest_acc85.png, id=327, 797.22844pt x 442.65375pt>
 File: images/pest_acc85.png Graphic file (type png)
 <use images/pest_acc85.png>
 Package pdftex.def Info: images/pest_acc85.png  used on input line 802.
 (pdftex.def)             Requested size: 295.75032pt x 164.2116pt.
- [28pdfTeX warning (ext4): destination with the same identifier (name{figure.4.
-2}) has been already used, duplicate ignored
+[28pdfTeX warning (ext4): destination with the same identifier (name{figure.4.2
+}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
@@ -1969,7 +2010,16 @@ l.809 \newpage
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.809 \newpage
-               <./images/pest_acc75.png> <./images/pest_acc85.png>] [29]
+               <./images/pest_acc75.png> <./images/pest_acc85.png>]
+
+LaTeX Warning: Reference `lst:pestdepthcertifier' on page 29 undefined on input
+ line 829.
+
+[29]
+
+LaTeX Warning: Reference `lst:computenextdepth' on page 30 undefined on input l
+ine 858.
+
 [30]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
@@ -2088,21 +2138,35 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 1267.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1267.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1267.
 
-Package rerunfilecheck Info: File `tesi.out' has not changed.
-(rerunfilecheck)             Checksum: AA7BF348A0721C24A9AFA13B1DF39ACD;2355.
 
 
-LaTeX Warning: There were multiply-defined labels.
+Package rerunfilecheck Warning: File `tesi.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `tesi.out':
+(rerunfilecheck)             Before: D41D8CD98F00B204E9800998ECF8427E;0
+(rerunfilecheck)             After:  AA7BF348A0721C24A9AFA13B1DF39ACD;2355.
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+
+Package biblatex Warning: Please (re)run Biber on the file:
+(biblatex)                tesi
+(biblatex)                and rerun LaTeX afterwards.
 
 Package logreq Info: Writing requests to 'tesi.run.xml'.
 \openout1 = `tesi.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 29192 strings out of 492945
- 516443 string characters out of 3125364
- 1089062 words of memory out of 3000000
- 32209 multiletter control sequences out of 15000+200000
+ 29152 strings out of 492945
+ 515939 string characters out of 3125364
+ 1084837 words of memory out of 3000000
+ 32170 multiletter control sequences out of 15000+200000
  642900 words of font info for 89 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  59i,14n,75p,1446b,2906s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -2131,9 +2195,9 @@ nts/type1/public/lm/lmsy8.pfb><C:/Users/Samuele/AppData/Local/Programs/MiKTeX 2
 .9/fonts/type1/public/lm/lmtk10.pfb><C:/Users/Samuele/AppData/Local/Programs/Mi
 KTeX 2.9/fonts/type1/public/lm/lmtt10.pfb><C:/Users/Samuele/AppData/Local/Progr
 ams/MiKTeX 2.9/fonts/type1/public/lm/lmtt12.pfb>
-Output written on tesi.pdf (55 pages, 6918634 bytes).
+Output written on tesi.pdf (54 pages, 6889780 bytes).
 PDF statistics:
- 1167 PDF objects out of 1200 (max. 8388607)
+ 994 PDF objects out of 1000 (max. 8388607)
  563 named destinations out of 1000 (max. 500000)
- 390 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 86 words of extra memory for PDF output out of 10000 (max. 10000000)
 
