@@ -1,10 +1,10 @@
 # Samuele Ferri
 
 <p align="center">
-<img src="https://github.com/samuelexferri/bachelorthesis/blob/master/latex/images/unibg.png" width="200">
+<img src="https://github.com/samuelexferri/bachelorthesis/blob/master/latex/images/unibg.jpg" width="200">
 </p>
 
-**Bachelor's thesis** - Software Engineering
+**Bachelor's thesis** - Computer Engineering
 
 Design and development of 3D Stereo Acuity Test with PEST algorithm (Parameter Estimation by Sequential Testing)​
 
