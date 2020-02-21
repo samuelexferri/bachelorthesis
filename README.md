@@ -1,4 +1,4 @@
-# Samuele Ferri
+# Bachelor's thesis in Computer Engineering
 
 <p align="center">
 <img src="https://github.com/samuelexferri/bachelorthesis/blob/master/latex/images/unibg.jpg" width="200">
