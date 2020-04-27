@@ -1,14 +1,12 @@
-# Bachelor's thesis in Computer Engineering
+# Bachelor's thesis in Computer Science and Engineering
 
 <p align="center">
 <img src="https://github.com/samuelexferri/bachelorthesis/blob/master/latex/images/unibg.jpg" width="200">
 </p>
 
-**Bachelor's thesis** - Computer Engineering
+**Bachelor's thesis** - Computer Science and Engineering
 
 Design and development of 3D Stereo Acuity Test with PEST algorithm (Parameter Estimation by Sequential Testing)​
-
-[samuelexferri.com](https://samuelexferri.com)
 
 ![alt text](https://img.shields.io/badge/Language-Italian-infomrmational?style=for-the-badge)
 
